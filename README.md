@@ -13,7 +13,7 @@ It shows the the latest sales figures and explore trends, profit margins and suc
 - How to Summarize KPIs and visualize insights using PowerBI
 
 ##    Preview
-![Dashboard Screenshot](https://github.com/Tayo274/Financial-Analysis-/blob/main/Screenshot%202026-10-15%20175719)
+![Dashboard Screenshot](https://github.com/Tayo274/Financial-Analysis-/blob/main/Screenshot%202026-10-15%20175719.png)
   
 > Click the image above to see a preview of the final dashboard
 # Financial Analysis
